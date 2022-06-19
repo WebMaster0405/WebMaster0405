@@ -95,6 +95,6 @@
   &nbsp;&nbsp;
   <a href="https://discord.gg/WebMaster0405#1095" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yosuke-watanabe-2ba959242" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
 </div>
