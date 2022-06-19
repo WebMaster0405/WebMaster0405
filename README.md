@@ -89,11 +89,11 @@
 </h2>
 <br />
   
-   <a href="minato20010119@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+   <a href="webdevmaster0105@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/pet_minion" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/WebMaster0405" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/KfkwMdMv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.gg/WebMaster0405#1095" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yosuke-watanabe-2ba959242" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
